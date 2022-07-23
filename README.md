@@ -13,6 +13,8 @@ You can click the Preview link to take a look at your changes.
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
+##### HERE ARE SOME OF MY PROJECTS
+
 # Project Name: YOUNG-CODERS-INITIATIVE (YCI) WEBSITE
 
 > Description the project:
