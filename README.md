@@ -26,13 +26,6 @@ let lastenernest = {
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lasten-Ernest&theme=radical" alt="Lasten-Ernest" /></p>
-  
-<p>Latest Blog Posts<img src="https://media.giphy.com/media/THICzXhqZItpoFX7aD/giphy.gif" width="55"></p>
-
-- [Why-HTML-is-a-must-for-every-website](https://medium.com/@onifkay/why-html-is-a-must-for-every-website-827da577605c)
-- [Innovate-for-Africa-A-beautiful-learning-experience](https://medium.com/@onifkay/innovate-for-africa-a-beautiful-learning-experience-bf7242074922)
-- [How-to-improve-your-productivity-using-the-pomodoro-techniques](https://medium.com/@onifkay/how-to-improve-your-productivity-using-the-pomodoro-techniques-8c71b125bd9a)
-
 
 <h3 align="center">Let's Connect 🤝</h3>
 <div align="center">
